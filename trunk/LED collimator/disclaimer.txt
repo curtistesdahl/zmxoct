@@ -1,0 +1,4 @@
+OSRAM assumes neither warranty, nor guarantee nor any other liability of any kind for the contents and correctness of the provided rayfile data. The rayfile data has been generated with highest diligence but the provided data may in reality not represent the complete possible variation range of all component parameters. Therefore, in certain cases a deviation between the real emission characteristic and the emission characteristic which is encoded in the provided rayfile data could occur.
+OSRAM reserves the right to undertake technical changes of the component without further notification which could lead to changes in the provided rayfile data. 
+OSRAM assumes no liability of any kind for the loss of data or any other damage resulting from the usage of the provided rayfile data.
+The user agrees to this disclaimer and user agreement with the download or usage of the provided files.
